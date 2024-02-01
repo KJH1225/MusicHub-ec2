@@ -38,7 +38,7 @@ class PlayHistory extends Sequelize.Model {
       timestamps: false,
       underscored: false,
       modelName: 'PlayHistory',
-      tableName: 'playHistorys',
+      tableName: 'playhistorys',
       paranoid: false,
       charset: 'utf8',
       collate: 'utf8_general_ci',
