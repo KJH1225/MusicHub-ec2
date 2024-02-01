@@ -3,7 +3,7 @@
     "username": "root",
     "password": "rlawlghks51",
     "database": "musichubdb",
-    "host": "www.i1004902.com",
+    "host": "3.37.182.254",
     "dialect": "mysql"
   },
   "test": {
